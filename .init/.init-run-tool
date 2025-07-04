@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/dreamlit-explorer-104966-b83a988a/dreamreads_frontend"
+}
